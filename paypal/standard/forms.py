@@ -20,6 +20,8 @@ PAYPAL_DATE_FORMATS = ["%H:%M:%S %b. %d, %Y PST",
                        "%H:%M:%S %b. %d, %Y PDT",
                        "%H:%M:%S %b %d, %Y PST",
                        "%H:%M:%S %b %d, %Y PDT",
+                       "%H:%M:%S %d %b %Y PST",    # note this
+                       "%H:%M:%S %d %b %Y PDT",    # and that
                       ]
 
 
